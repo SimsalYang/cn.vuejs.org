@@ -12,8 +12,7 @@
   * [事件处理](events.md)
   * [表单输入绑定](forms.md)
   * [组件](components.md)
-* 过渡 & 动画
-  * [进入/离开 & 列表过渡](transitions.md)
+* [过渡 & 动画](guo-du-and-dong-hua.md)
   * [状态过渡](transitioning-state.md)
 * [可复用性 & 组合](ke-fu-yong-xing-and-zu-he.md)
   * [混入](mixins.md)
