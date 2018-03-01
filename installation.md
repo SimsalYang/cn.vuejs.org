@@ -12,7 +12,7 @@ Vue **不支持** IE8 及以下版本，因为 Vue 使用了 IE8 无法模拟的
 
 ### 更新日志
 
-最新稳定版本：{{vue_version}}
+最新稳定版本：2.5.13
 
 每个版本的更新日志见 [GitHub](https://github.com/vuejs/vue/releases)。
 
@@ -76,12 +76,12 @@ $ npm run dev
 
 在 [NPM 包的 `dist/` 目录](https://cdn.jsdelivr.net/npm/vue/dist/)你将会找到很多不同的 Vue.js 构建版本。这里列出了它们之间的差别：
 
-| | UMD | CommonJS | ES Module |
-| --- | --- | --- | --- |
-| **完整版** | vue.js | vue.common.js | vue.esm.js |
-| **只包含运行时版** | vue.runtime.js | vue.runtime.common.js | vue.runtime.esm.js |
-| **完整版 (生产环境)** | vue.min.js | - | - |
-| **只包含运行时版 (生产环境)** | vue.runtime.min.js | - | - |
+|                    | UMD                | CommonJS              | ES Module          |
+| ------------------ | ------------------ | --------------------- | ------------------ |
+| **完整版**            | vue.js             | vue.common.js         | vue.esm.js         |
+| **只包含运行时版**        | vue.runtime.js     | vue.runtime.common.js | vue.runtime.esm.js |
+| **完整版 (生产环境)**     | vue.min.js         | -                     | -                  |
+| **只包含运行时版 (生产环境)** | vue.runtime.min.js | -                     | -                  |
 
 ### 术语
 
